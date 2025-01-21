@@ -56,7 +56,7 @@ For a full portfolio of our work, visit [Our Portfolio](https://knotsync.com/).
 
 ## 🌍 Let's Connect
 
-- **Website**: [knotsync.com]([https://youragency.com](https://knotsync.com/))
+- **Website**: [knotsync.com](https://knotsync.com)
 - **Email**: [info@knotsync.com](mailto:info@knotsync.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/company/knotsync)
   
