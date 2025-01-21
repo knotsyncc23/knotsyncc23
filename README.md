@@ -29,12 +29,12 @@ Hello! We're **KnotSync**, a team of tech enthusiasts dedicated to crafting inno
 ### 🌟 **E-commerce Platform**
 - A custom-built e-commerce solution with real-time inventory updates and secure payment integration.
   - **Tech Stack**: React.js, Node.js, MongoDB
-  - **GitHub**: [View Code](#)
+  - **GitHub**: [View Code](https://github.com/knotsyncc23/Usravens-frontend)
 
 ### 🌟 **SEO Dashboard**
 - A powerful dashboard for real-time website analytics and SEO insights.
   - **Tech Stack**: Laravel, Vue.js, MySQL
-  - **GitHub**: [View Code](#)
+  - **GitHub**: [View Code](https://github.com/knotsyncc23/Usravens-frontend)
 
 ### 🌟 **Mobile Fitness App**
 - An engaging app for fitness enthusiasts with personalized workout tracking.
