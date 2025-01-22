@@ -36,10 +36,10 @@ Hello! We're **KnotSync**, a team of tech enthusiasts dedicated to crafting inno
   - **Tech Stack**: Laravel, Vue.js, MySQL
   - **GitHub**: [View Code](https://github.com/knotsyncc23/Usravens-frontend)
 
-### 🌟 **Mobile Fitness App**
-- An engaging app for fitness enthusiasts with personalized workout tracking.
-  - **Tech Stack**: React Native, Firebase
-  - **GitHub**: [View Code](#)
+### 🌟 **KnotSync Todo Mobile App**
+- A React Native app for managing daily tasks with features like adding, marking as done, and deleting todos. Includes categorized tabs for 'Done,' 'In Progress,' and 'All' tasks for better organization.
+  - **Tech Stack**: React Native, Expo
+  - **GitHub**: [View Code](https://github.com/knotsyncc23/KnotSync-Todo-App)
 
 For a full portfolio of our work, visit [Our Portfolio](https://knotsync.com/).
 
@@ -64,6 +64,7 @@ For a full portfolio of our work, visit [Our Portfolio](https://knotsync.com/).
 
 ## 📞 Contact Us
 **0172-2911938**
+
 Looking to bring your project to life? Reach out today!  
 We’d love to discuss how we can help your business grow digitally.
 
