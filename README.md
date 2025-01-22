@@ -41,7 +41,7 @@ Hello! We're **KnotSync**, a team of tech enthusiasts dedicated to crafting inno
   - **Tech Stack**: React Native, Expo
   - **GitHub**: [View Code](https://github.com/knotsyncc23/KnotSync-Todo-App)
 
-For a full portfolio of our work, visit [Our Portfolio](https://knotsync.com/).
+For a full portfolio of our work, visit [Our Portfolio](https://knotsync.com/our-works/).
 
 ---
 
@@ -62,8 +62,8 @@ For a full portfolio of our work, visit [Our Portfolio](https://knotsync.com/).
   
 ---
 
-## 📞 Contact Us
-**0172-2911938**
+## 📞 Whatsapp Us
+**+1 3074293725**
 
 Looking to bring your project to life? Reach out today!  
 We’d love to discuss how we can help your business grow digitally.
